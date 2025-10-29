@@ -1,0 +1,49 @@
+leftnav:
+- identifier: 3a08efa6-9592-4db6-b8ee-439022353dc6
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: dbeaacee-2df5-4d54-b885-25e465e7ce7c
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 152fe9cf-b0aa-4e46-912d-5ce49d879ffa
+  name: "Lectures 1\u20133"
+  pageRef: /pages/lectures-1-3
+  weight: 30
+- identifier: 6a4b06a3-8bd3-4b88-bd00-171158839d25
+  name: "Lectures 4\u20136"
+  pageRef: /pages/lectures-4-6
+  weight: 40
+- identifier: d2891f28-9207-4ca7-8394-fbf15e84d821
+  name: "Lectures 7\u20139"
+  pageRef: /pages/lectures-7-9
+  weight: 50
+- identifier: 25834eda-b206-4c25-bff5-68bbd6b225e3
+  name: "Lectures 10\u201312"
+  pageRef: /pages/lectures-10-12
+  weight: 60
+- identifier: 03eb2168-805a-4179-8a32-98f1dbd7f80f
+  name: "Lectures 13\u201315"
+  pageRef: /pages/lectures-13-15
+  weight: 70
+- identifier: 973e1c47-f298-4dc3-b535-96b78e8fae0d
+  name: "Lectures 16\u201318"
+  pageRef: /pages/lectures-16-18
+  weight: 80
+- identifier: 2b31eaa1-ff84-46f6-93fc-1296e54282c4
+  name: "Lectures 19\u201321"
+  pageRef: /pages/lectures-19-21
+  weight: 90
+- identifier: 1e7bee7a-4481-4cb4-8ce6-d55c49ef4e59
+  name: "Lectures 22\u201324"
+  pageRef: /pages/lectures-22-24
+  weight: 100
+- identifier: 5a762a2c-3f6d-4247-a9b8-98ccc53d788a
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 110
+- identifier: 7e1f7e62-e43e-4ba4-bcd2-cad7a8a989c6
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 120
